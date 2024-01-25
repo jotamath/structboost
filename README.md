@@ -1,4 +1,4 @@
-# Structboost
+# Structboost  [![wakatime](https://wakatime.com/badge/user/018c9fc5-3ccc-466c-ae10-5fb37fb92384/project/018d1ce6-4bbc-4dbe-9896-4197535d432a.svg)](https://wakatime.com/badge/user/018c9fc5-3ccc-466c-ae10-5fb37fb92384/project/018d1ce6-4bbc-4dbe-9896-4197535d432a)
 ## Technologies used: 
 <div align="center">
 	<img width="45" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
